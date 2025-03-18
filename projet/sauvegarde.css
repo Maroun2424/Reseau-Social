@@ -1,0 +1,22 @@
+body{
+    font-family: Gill Sans, sans-serif; 
+    font-size:20px;
+    text-align: center;
+    background-color: #d0f1f8;
+}
+.tete{
+    text-align: center;
+    padding-bottom: 8px;
+    padding-top: 5px;
+}
+
+h1{
+    font-family: Gill Sans, sans-serif; 
+    font-size:30px;
+    text-align: center;
+    padding-top: 0px;
+    color: #EA596E;
+  }
+  
+  a:hover { text-decoration: none; }
+  a:visited { text-decoration: none; color: #EA596E; }

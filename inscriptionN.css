@@ -1,0 +1,70 @@
+.tete{
+  text-align: center;
+  padding-bottom: 8px;
+  padding-top: 5px;
+}
+
+table{
+    text-align: center;
+    border-width: 3px;
+    border-style:solid;
+    border-color:#7FCBDB;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: Gill Sans, sans-serif;
+    width:550px;
+    height:300px;
+}
+tbody{
+  background-color: #7FCBDB;
+}
+
+thead{
+  background-color: white;
+  border-width: 5px;
+  border-color: black;
+  height:30px;
+}
+
+body{
+  background-color: #DEF6FA;
+}
+
+.fields{ 
+  width: 180px;
+  height:18px;
+  text-align: center;
+  border: 10px;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+td {
+  width: 60%;
+}
+
+.buttons {
+  width: 100px;  
+  padding-top: 3px;  
+  padding-bottom: 3px; 
+  display: inline-block;
+  background-color: #7FCBDB;
+	color: #fff;
+  border-style: none;
+  border-radius: 20px;
+  height: 35px;
+  font-size: 15px;
+}
+
+.center{
+  text-align: center;
+  padding-top: 20px;  
+}
+
+.croisons{
+  font-family: Gill Sans, sans-serif;
+  text-align: center;
+  padding-top: 5px;
+  font-size: large;
+  color: #EA596E;
+}

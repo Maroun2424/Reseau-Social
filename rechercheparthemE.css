@@ -1,0 +1,12 @@
+table{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: Gill Sans, sans-serif;
+    font-size: 35px;
+    width:400px;
+    height:auto;
+}
+
+a { text-decoration: none; color: #EA596E;}
+a:hover { color: #7FCBDB; }

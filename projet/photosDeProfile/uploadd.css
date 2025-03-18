@@ -1,0 +1,48 @@
+.tete{
+    text-align: center;
+    padding-bottom: 8px;
+    padding-top: 30px;
+}
+
+body{
+    background-color: #d0f1f8;
+}
+
+.buttons {
+    width: 120px;  
+    display: inline-block;
+    background-color: #EA596E;
+    color: #fff;
+    border-style: none;
+    border-radius: 20px;
+    height: 35px;
+    font-size: 10px;
+}
+
+.center{
+    text-align: center;
+    padding-top: 30px;  
+    font-family: Gill Sans, sans-serif; 
+    color: #4794a3;
+    font-size: 25px;
+}
+
+img{
+    text-align: center;
+    border-radius: 50%;
+}
+
+h1{
+    font-family: Gill Sans, sans-serif; 
+    font-size:20px;
+    text-align: center;
+    padding-top: 0px;
+    color: #EA596E;
+}
+
+a {color: #EA596E;}
+a:hover { text-decoration: none; }
+a:visited { text-decoration: none; color: #EA596E; }
+
+
+

@@ -1,0 +1,36 @@
+.tete{
+    text-align: center;
+    padding-bottom: 8px;
+    padding-top: 30px;
+}
+
+body{
+    background-color: #d0f1f8;
+}
+
+.buttons {
+    width: 120px;  
+    display: inline-block;
+    background-color: #EA596E;
+    color: #fff;
+    border-style: none;
+    border-radius: 20px;
+    height: 35px;
+    font-size: 10px;
+}
+
+.center{
+    text-align: center;
+    padding-top: 30px;  
+    font-family: Gill Sans, sans-serif; 
+    color: #4794a3;
+    font-size: 25px;
+}
+
+img{
+    text-align: center;
+    border-radius: 50%;
+}
+
+
+

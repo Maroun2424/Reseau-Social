@@ -1,0 +1,16 @@
+table{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: Gill Sans, sans-serif;
+    font-size: 35px;
+    width:400px;
+    height:auto;
+}
+
+a{
+    color: #EA596E; 
+}
+
+a:hover { text-decoration: none; color:#EA596E }
+a:visited { text-decoration: none; color: #EA596E; }
